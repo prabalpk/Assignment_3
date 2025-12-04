@@ -7,9 +7,9 @@
 # 2.   Returns the calculated factorial.
 # 3.   Calls the function with a sample number and prints the output.
  
-Task 2: Using the Math Module for Calculations
+# Task 2: Using the Math Module for Calculations
  
-Problem Statement:
+# Problem Statement:
 # 1.   Asks the user for a number as input.
 # 2.   Uses the math module to calculate the:
 # &emsp;o   Square root of the number
