@@ -19,4 +19,4 @@ sine_val = math.sin(num)
 
 print(f"Square Root: {sqrt_val}")
 print(f"Logarithm: {log_val}")
-print(f"Sine: {sine_val}")
+print(f"Sinex: {sine_val}")
