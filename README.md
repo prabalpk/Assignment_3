@@ -12,8 +12,8 @@
 # Problem Statement: Write a Python program that:
 # 1.   Asks the user for a number as input.
 # 2.   Uses the math module to calculate the:
-# &emspo   Square root of the number
-# &emspo   Natural logarithm (log base e) of the number
-# &emspo   Sine of the number (in radians)
+# &emsp;o   Square root of the number
+# &emsp;o   Natural logarithm (log base e) of the number
+# &emsp;o   Sine of the number (in radians)
 # 3.   Displays the calculated results.
 
